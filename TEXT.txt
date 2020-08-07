@@ -1,0 +1,12 @@
+https://res.cloudinary.com/simplotel/image/upload/x_0,y_40,w_1067,h_600,r_0,c_crop,q_90,fl_progressive/w_366,f_auto,c_fit/the-serai-kabini/The_Residence_Room,_The_Serai_Kabini,_Best_Waterfront_Resorts_in_Kabini,_Stay_in_Kabini
+	 "name" : "The Serai Kabini",
+      "description": "The Serai Kabini - ",
+      "telephone" : "+91 80 4001 2200",
+      "email" : "enquiries@theserai.in",
+https://res.cloudinary.com/simplotel/image/upload/f_auto,q_auto/x_0,y_0,w_256,h_46,c_crop,q_60,fl_progressive/w_300,h_50,c_pad/the-serai-bandipur/kabini_rv5gzh
+ Resort:
+	1)bandipur link:https://www.theserai.in/bandipur-resort/
+	2)andaman link: https://www.theserai.in/barefoot-at-havelock-andaman-resort/
+	3)chikamagaur link: https://www.theserai.in/chikmagalur-resort/
+	4)kabini link:https://www.theserai.in/kabini-resort/
+https://res.cloudinary.com/simplotel/image/upload/f_auto,q_auto/x_0,y_0,w_256,h_46,c_crop,q_60,fl_progressive/w_300,h_50,c_pad/the-serai-bandipur/kabini_rv5gzh
